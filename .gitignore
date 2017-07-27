@@ -1,3 +1,4 @@
 src/*.pyc
 src/__pycache__/
 src/__init__
+src/.idea
